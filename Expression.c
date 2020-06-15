@@ -14,8 +14,8 @@ int main() {
     printf("Bitte geben sie die vierte Zahl ein: ");
     scanf ("%d", &d);
 
-int e=(a*b);
-int f=(c*d);
+    int e=(a*b);
+    int f=(c*d);
 
     printf("\n %d*%d+%d*%d ist %d",a ,b ,c ,d , e + f );
     printf("\n %d*%d ist %d",a ,b ,e);
